@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457699276548",
+    "project_id": "tip-irl-flutter",
+    "storage_bucket": "tip-irl-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457699276548:android:97a5efc3a588c70c8a4251",
+        "android_client_info": {
+          "package_name": "com.example.tip_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457699276548-e2f56pght9626cfs04hl5kpsdk4a9e01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIerM9a6nD6o4l9_ty1vxBFNUPc9qPHUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457699276548-e2f56pght9626cfs04hl5kpsdk4a9e01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
